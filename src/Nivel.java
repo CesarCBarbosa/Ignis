@@ -1,6 +1,7 @@
 public class Nivel {
     private String data;
     private double valor;
+    private String sera;
 	
     public Nivel(String dat, double val){
             data = dat;
